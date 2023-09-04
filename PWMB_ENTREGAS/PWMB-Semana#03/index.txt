@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Análise de Negócios</title>
+</head>
+<body>
+
+<h1>Análise de Negócios</h1>
+<p>Transformandos dados em insights estratégicos</p>
+<a href="doc1.html">inicio</a>
+<a href="doc2.html">Sobre</a>
+<a href="doc3.html">Serviços</a>
+<a href="doc4.html">Contato</a>
+<h1>Serviços de Análise de Negócios</h1>
+<p>Nossa equipe de especialista está pronta para ajudar sua empresaa tomar decisões informadas</p>
+
+<ul>
+	<li>Análise de Dados de Mercado</li>
+    <li>Previsão de Tendências</li>
+    <li>Otiminização de Processos</li>
+</ul>
+
+</body>
+</html>
